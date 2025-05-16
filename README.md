@@ -89,4 +89,4 @@ nyc-taxi-data-engineering/
 
 ## 🧑‍💻 Author
 
-Developed by [Jintaek Uh](https://github.com/your-github-id)
+Developed by [Jintaek Uh](https://github.com/jinjintaek)
