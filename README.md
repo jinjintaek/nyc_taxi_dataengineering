@@ -12,13 +12,7 @@ This project processes monthly NYC Yellow Taxi trip data (in Parquet format), pe
 
 ## 🧱 Architecture
 
-```mermaid
-graph TD
-    A[Parquet Download] --> B[Data Cleaning (Pandas)]
-    B --> C[PostgreSQL (Docker)]
-    C --> D[EDA (Matplotlib/Seaborn)]
-    C --> E[Streamlit Dashboard]
-```
+![architecture](assets/architecture.png)
 
 ---
 
